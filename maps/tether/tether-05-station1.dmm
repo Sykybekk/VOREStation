@@ -4920,6 +4920,10 @@
 	d2 = 2;
 	icon_state = "1-2"
 	},
+/obj/structure/panic_button{
+	pixel_x = -30;
+	pixel_y = 28
+	},
 /turf/simulated/floor/tiled/techmaint,
 /area/shuttle/excursion/cockpit)
 "alH" = (
